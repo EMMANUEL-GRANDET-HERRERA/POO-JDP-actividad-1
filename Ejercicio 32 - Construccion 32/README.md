@@ -1,0 +1,1 @@
+Dos productos mediante fábrica.
