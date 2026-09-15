@@ -1,0 +1,1 @@
+La variable local y el atributo son variables distintas.
