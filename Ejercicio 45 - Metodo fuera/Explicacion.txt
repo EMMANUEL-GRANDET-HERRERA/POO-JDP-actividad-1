@@ -1,0 +1,1 @@
+El método está fuera de una clase.
