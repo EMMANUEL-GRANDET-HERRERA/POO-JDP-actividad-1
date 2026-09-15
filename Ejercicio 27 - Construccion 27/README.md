@@ -1,0 +1,1 @@
+Constructor con datos iniciales.
