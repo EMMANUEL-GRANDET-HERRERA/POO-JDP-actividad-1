@@ -1,0 +1,1 @@
+Mini-integrador UsuarioSistema.
