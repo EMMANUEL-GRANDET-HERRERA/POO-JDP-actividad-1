@@ -1,0 +1,2 @@
+# Conclusión
+La POO organiza el software alrededor de entidades con estado y comportamiento. La clase funciona como modelo o plantilla y el objeto es una entidad concreta con valores propios. La instanciación produce una ocurrencia concreta de la clase y en Java se realiza normalmente con new. La guía presenta además constructores parametrizados, sobrecarga, métodos fábrica y constructor copia. Estas bases permiten avanzar posteriormente hacia otros conceptos de POO.
