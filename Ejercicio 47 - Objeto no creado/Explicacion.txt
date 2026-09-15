@@ -1,0 +1,1 @@
+La referencia fue declarada pero no se construyó el objeto.
