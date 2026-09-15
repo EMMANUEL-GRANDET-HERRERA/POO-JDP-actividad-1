@@ -1,0 +1,1 @@
+Reescritura con constructor copia.
